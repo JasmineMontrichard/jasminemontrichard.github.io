@@ -89,10 +89,6 @@ a {
 .navBar a:hover {
     color: black;
 }
-
-.boldOnHover a:hover {
-    font-weight: bold;
-}
   
 .navBar a:hover::after {
     transform: scaleX(1);
